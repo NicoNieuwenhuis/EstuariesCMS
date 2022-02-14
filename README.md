@@ -1,5 +1,5 @@
 # Estuaries
-Open source marktplace, platorm &amp; listings cms
+Open source marktplace, online auction, platorm &amp; listings cms
 
 # Sign up for the alpha on https://estuaries.eu.org
 
