@@ -6,6 +6,19 @@ Open source martplace, platorm &amp; listings cms
 # Demo:
 https://spiritmarket.eu.org (Is slow because it is on oracle freevpn)
 
+# Features
+
+    ✔ Bid system
+    ✔ Blog
+    ✔ Q&A system
+    ✔ Comment System
+    ✔ Message system (with email)
+    ✔ Map
+    ✔ Custom filter system
+    ✔ Custom category system
+    ✔ Api
+    ✔ Rollover images
+
 # Screenshots:
 
 ![](/schreenshots/estuarieshomescreen.jpg?raw=true "Home page")
