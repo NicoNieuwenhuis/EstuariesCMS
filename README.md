@@ -16,7 +16,7 @@ https://spiritmarket.eu.org (Is slow because it is on oracle freevpn)
     ✔ Map
     ✔ Custom filter system
     ✔ Custom category system
-    ✔ Api
+    ✔ Api (Headless)
     ✔ Rollover images
 
 # Screenshots:
